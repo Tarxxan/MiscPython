@@ -1,0 +1,1 @@
+https://api.opensea.io/api/v1/events?collection_slug=thealcabones&event_type=successful&only_opensea=false&offset=0&limit=100
