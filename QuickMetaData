@@ -1,0 +1,6 @@
+import requests
+x=0
+Y=10000
+for x in range(X, Y):
+    r = requests.get("https://metazoo-metadata-server.herokuapp.com/api/metadata/" + str(x))
+    print(r.text)
